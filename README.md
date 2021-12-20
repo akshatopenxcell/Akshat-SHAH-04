@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Akshat Shah</h1>
-<h3 align="center"> Blockchain | iOS Development | Cloud | Gamer by ❤️ </h3>
+<h3 align="center"> Blockchain | iOS Development | Ethereum </h3>
 <h4 align="center">I Believe in Hardwork, preservance and in getting things done 💻 </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AKSHAT-SHAH-04&label=Profile%20views&color=0e75b6&style=flat" alt="AKSHAT SHAH" /> </p>
 
