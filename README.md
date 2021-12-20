@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AKSHAT-SHAH-04](https://github.com/AKSHAT-SHAH-04)
 
-- 💬 Ask me about **Blockchain, DeFi, AI, Big Data**
+- 💬 Ask me about **Blockchain, DeFi, Ethereum**
 
 - 📫 How to reach me **Akshatshah04@gmail.com**
 
