@@ -15,9 +15,9 @@
 
 <!-- - 📄 Know about my experiences [https://www.linkedin.com/in/akshat-shah-94a30a122/](https://www.linkedin.com/in/akshat-shah-94a30a122/)
  -->
-- ⚡ Fun fact **7 billion people use the internet, and 0.5% of them use blockchain in some form by now.**
+- ⚡ Fun fact **The Bitcoin Network is more powerful than 500 super computers working together.**
 
-- ☀️ Life Moto **Failure is the opportunity to begin again,more Intelligently ✌️#on_my_way_to_success**
+- ☀️ Life Moto **Hardwork and Do Epic Things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
