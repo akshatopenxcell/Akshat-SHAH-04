@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently expanding my knowledge on **Ethereum 2.0, DeFi Protocols, Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AKSHAT-SHAH-04](https://github.com/AKSHAT-SHAH-04)
+- 👨‍💻 My projects are available at [https://github.com/AKSHAT-SHAH-04](https://github.com/AKSHAT-SHAH-04)
 
 - 💬 Ask me about **Blockchain, DeFi, Ethereum**
 
