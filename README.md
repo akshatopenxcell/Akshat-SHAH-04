@@ -17,7 +17,7 @@
  -->
 - ⚡ Fun fact **The Bitcoin Network is more powerful than 500 super computers working together.**
 
-- ☀️ Life Moto **Consistency makes wonder**
+- ☀️ Life Moto **Quality Over Anything**
 
 
 <h3 align="left">Languages and Tools:</h3>
