@@ -5,7 +5,7 @@
 
 <br />
 
-- 🔭 I’m currently working on **Building A DAPP**
+- 🔭 I’m currently working on **Building DAPPS**
 
 - 🌱 I’m currently learning **GO, Rust**
 
